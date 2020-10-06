@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body{
+    font-family: Arial;
+        text-align: justify;
+}
+
+h1,h2{
+    color: green;
+}
+
+h1{
+    font-size: 38px;
+    margin-bottom: 20px;
+    
+}
+h2{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+h3 {
+    color: green;
+    margin-bottom: 10px;
+}
+
+
+.asd{
+    color: black;
+    margin-bottom: 20px;
+}
+
+#qw{
+    text-align: justify;
+}
+
+
+.container{
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.author_text {
+    font-size: 15px;
+    font-family: serif;
+}
+
+.bog-post {
+    background-color: #0000ff;  
+    float: left;
+}
+
+.other-posts {
+    background-color: #00ff00;
+    float: left;
+}
+
+.author-box {
+    background-color: #ffff00;
+}
